@@ -11,7 +11,7 @@
 
 ### ⚡ Senior Laravel & Full-Stack Engineer · Islamabad, Pakistan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=4%2B+Years+of+Backend+Engineering;PHP+%7C+Laravel+%7C+Node.js+%7C+Cloud+Architecture;Building+Scalable%2C+Secure+%26+Elegant+Systems;SaaS+%7C+Microservices+%7C+CI%2FCD+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Backend+Engineering;PHP+%7C+Laravel+%7C+Node.js+%7C+Cloud+Architecture;Building+Scalable%2C+Secure+%26+Elegant+Systems;SaaS+%7C+Microservices+%7C+CI%2FCD+Pipelines)](https://git.io/typing-svg)
 
 <br/>
 
